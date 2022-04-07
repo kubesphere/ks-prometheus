@@ -9,5 +9,5 @@
   "prometheusOperator": "0.55.1",
   "kubeRbacProxy": "0.11.0",
   "configmapReload": "0.5.0",
-  "thanos": "0.23.2"
+  "thanos": "0.25.2"
 }
